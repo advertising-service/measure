@@ -43,3 +43,30 @@ When it comes to measuring the results of advertising methods, digital channels 
 - **A/B Testing**: Tools like Optimizely or Google Optimize help measure the impact of different variations in campaigns.
 
 By focusing on these methods and tools, Uber or Lyft can gain clear insights into the effectiveness of their advertising efforts, allowing for data-driven decisions and optimizations.
+
+
+Dưới đây là bảng các metrics cần theo dõi cho từng phương pháp quảng cáo mà Uber hoặc Lyft có thể sử dụng:
+
+| **Phương pháp quảng cáo**          | **Metrics**                                                                                   |
+|------------------------------------|-----------------------------------------------------------------------------------------------|
+| **Quảng cáo số**                   |                                                                                               |
+| Social Media Campaigns             | - Impressions<br>- Engagement Rate<br>- Click-Through Rate (CTR)<br>- Conversion Rate<br>- Cost per Click (CPC)<br>- Cost per Acquisition (CPA) |
+| Search Engine Marketing (SEM)      | - Impressions and Clicks<br>- Click-Through Rate (CTR)<br>- Quality Score<br>- Conversion Rate<br>- Return on Ad Spend (ROAS) |
+| App Store Optimization (ASO)       | - App Downloads<br>- Conversion Rate<br>- Ratings and Reviews<br>- Keywords Ranking           |
+| **Quảng cáo truyền thống**         |                                                                                               |
+| Out-of-Home (OOH) Advertising      | - Reach<br>- Frequency<br>- Brand Recall<br>- Location Traffic                                |
+| Television and Radio               | - Gross Rating Points (GRPs)<br>- Reach and Frequency<br>- Audience Demographics<br>- Brand Lift |
+| **Hợp tác và tài trợ**             |                                                                                               |
+| Events and Festivals               | - Attendance<br>- Promo Code Redemptions<br>- Brand Engagement                                |
+| Corporate Partnerships             | - Adoption Rate<br>- Employee Engagement<br>- Satisfaction Surveys                            |
+| **Khuyến mãi và ưu đãi**           |                                                                                               |
+| Referral Programs                  | - Referral Rate<br>- Conversion Rate<br>- Customer Lifetime Value (CLTV)                      |
+| Loyalty Programs                   | - Program Enrollment<br>- Redemption Rate<br>- Repeat Usage                                   |
+| **Content Marketing**              |                                                                                               |
+| Blog and Vlogs                     | - Traffic<br>- Engagement<br>- Conversion Rate                                               |
+| Email Marketing                    | - Open Rate<br>- Click-Through Rate (CTR)<br>- Conversion Rate<br>- Unsubscribe Rate          |
+| **Gắn kết cộng đồng**              |                                                                                               |
+| Local Sponsorships                 | - Community Reach<br>- Brand Sentiment<br>- Engagement Metrics                                |
+| Driver Appreciation Programs       | - Driver Retention Rate<br>- Driver Satisfaction<br>- Performance Metrics                     |
+
+Bảng trên liệt kê các metrics quan trọng cần theo dõi để đánh giá hiệu quả của từng phương pháp quảng cáo mà Uber hoặc Lyft có thể áp dụng.
